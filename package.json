@@ -1,0 +1,20 @@
+{
+  "name": "tubertables",
+  "version": "1.0.0",
+  "description": "The software for my backyard potato farm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talonbragg/tubertables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talonbragg/tubertables/issues"
+  },
+  "homepage": "https://github.com/talonbragg/tubertables#readme"
+}
